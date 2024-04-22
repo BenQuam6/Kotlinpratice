@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         btnClickMe.setOnClickListener{
             btnClickMe.text = "HAHA you clicked me!!"
-            welcomeMessage.text = "Hello, Welcome to the Jungle"
+            welcomeMessage.text = "Hello, Welcome to the Jungle we got fun and games"
 
 
 
